@@ -1,4 +1,4 @@
-Real-Time Indian Sign Language Recognition
+Real-Time Indian Sign Language Recognition:-
 This project aims to build a real-time Indian Sign Language (ISL) recognition system that can interpret and translate sign language gestures into text or speech. By using computer vision and machine learning techniques, the system captures hand movements and translates them to a readable format, enabling communication for individuals who use Indian Sign Language.
 
 Features:
